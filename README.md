@@ -13,7 +13,7 @@ I'm generally interested in biological optimizations for sustainable energy and 
 ## **Experiences**
 
 ### **Research & Industry Experiences (Thus far)** 
-**(May 2026 - ??? 2026) Incoming Research Fellow @ University of Wisconsin - Madison**
+**(May 2026 - ??? 2026) Incoming Research Fellow @ University of Wisconsin - Madison**<br>
 Advisor - Dr. Joel Paulson 
 
 
