@@ -42,7 +42,7 @@ AU24 - (CBE 5790) Modeling & Simulations with Dr. Jim Rathman <br>
 #### **Research articles** 
 Adomanis, R., **Phan, N.**, Walter, G., & Kimmel, B. R. (n.d.). Modular Nanobody Conjugates with Controlled Topology Using Genetically Encoded Non-canonical Amino Acids. https://www.biorxiv.org/content/10.1101/2025.11.27.691038v1.full.pdf
 
-#### **Review Papers **
+#### **Review Papers**
 Culkins, C*., Adomanis, R.*, **Phan, N.**, Robinson, B., Slaton, E., Lothrop, E., Chen, Y., & Kimmel, B. R. (2024). Unlocking the Gates: Therapeutic Agents for Noninvasive Drug Delivery Across the Blood-Brain Barrier. Molecular Pharmaceutics, acs.molpharmaceut.4c00604. https://doi.org/10.1021/acs.molpharmaceut.4c00604 *Indicates equal contribution 
 
 Chen, Y., Clay, N., **Phan, N.**, Lothrop, E., Culkins, C., Robinson, B., Stubblefield, A., Ferguson, A., & Kimmel, B. R. (2024). Molecular Matchmakers: Bioconjugation Techniques Enhance Prodrug Potency for Immunotherapy. Molecular Pharmaceutics, acs.molpharmaceut.4c00867. https://doi.org/10.1021/acs.molpharmaceut.4c00867
