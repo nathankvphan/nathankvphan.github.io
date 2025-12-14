@@ -14,11 +14,11 @@ I'm generally interested in biological optimizations for sustainable energy and 
 
 ### **Research & Industry Experiences (Thus far)** 
 **(May 2026 - ??? 2026) Incoming Research Fellow @ University of Wisconsin - Madison**<br>
-Advisor - Dr. Joel Paulson 
+Advisor: Dr. Joel Paulson 
 
 
 **(May 2025 - Present) Visiting Research Fellow @ University of Delaware** <br>
-Advisor - Dr. Aditya Kunajpur <br>
+Advisor: Dr. Aditya Kunajpur <br>
 Full time: SU25 || Part time: Present <br>
 CPI REU recipient <br>
 
