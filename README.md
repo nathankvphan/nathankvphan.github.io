@@ -8,7 +8,7 @@ I grew up in the Cuyahoga Valley National Park area. I like to climb, code, and 
 I had a rather. . . colorful path to choosing chemical engineering. After dancing around between almost 4 majors my freshman/sophomore years (even double majoring between some of them at points), I landed on chemical engineering because of the support I felt from the department. For better or worse, I’ve extended this explorative trend to my experiences.
 
 ### **Broad Research Interests, Beliefs, & Goals**
-I'm generally interested in biological optimizations for sustainable energy and healthcare. I believe innovation lies behind behind fewer, smarter experiements rather than exhaustive campaings for more figures. More importaintly, however, I believe anyone, regardless of background, can be a scientist or engineer. To this end, I hope to one day lead a research group and teach at an R1 university. 
+I'm generally interested in biological optimizations for sustainable energy and healthcare. I believe innovation lies behind behind fewer, smarter experiements rather than exhaustive experimental campaings only for more figures. More importaintly, however, I believe anyone, regardless of background, can be a scientist or engineer. To this end, I hope to one day lead a research group and teach at an R1 university. 
 
 ## **Experiences**
 
