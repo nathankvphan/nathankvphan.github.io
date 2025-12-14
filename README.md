@@ -13,19 +13,19 @@ I'm generally interested in biological optimizations for sustainable energy and 
 ## **Experiences**
 
 ### **Research & Industry Experiences (Thus far)** 
-(May 2025 - Present) Visiting Research Fellow @ University of Delaware <br>
+**(May 2025 - Present) Visiting Research Fellow @ University of Delaware** <br>
 Advisor - Dr. Aditya Kunajpur <br>
 Full time: SU25 || Part time: Present <br>
 CPI REU recipient <br>
 
-(Jan 2024 - Present) Undergraduate Researcher @ Ohio State University <br>
+**(Jan 2024 - Present) Undergraduate Researcher @ Ohio State University** <br>
 Primary Advisor: Blaise Kimmel <br>
 Secondary/co-advisor: Joel Paulson @ University of Wisconsin - Madison <br>
 
-(Jan 2025 - May 2025) Product Solutions Intern @ ExxonMobil <br>
+**(Jan 2025 - May 2025) Product Solutions Intern @ ExxonMobil** <br>
 Cracking & Light Ends Team<br>
 
-(May 2023 - Aug 2023) Visiting Research Fellow @ University of Pennsylvania <br>
+**(May 2023 - Aug 2023) Visiting Research Fellow @ University of Pennsylvania** <br>
 Advisor - Dr. Ani Hsieh<br>
 SUNFEST REU recipient <br>
 
